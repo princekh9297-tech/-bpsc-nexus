@@ -1,0 +1,8 @@
+{
+  "name": "bpsc-nexus",
+  "private": true,
+  "engines": {
+    "node": "24.x"
+  },
+  "type": "module"
+}
